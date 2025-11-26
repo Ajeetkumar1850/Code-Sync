@@ -1,6 +1,6 @@
 import React from 'react';
 import modal from './modal';
-
+// main fun
 function App() {
     const [show , setShow] = React.useState(false);
     return (
